@@ -1,0 +1,15 @@
+0-----
+$ git init
+$ touch readme.md
+$ touch comandos.txt
+$ git add .
+$ git commit -m "Inicializo repo, creo readme y comandos.txt" 
+$ git remote add origin https://github.com/VivicaGit/examenVidal.git
+git branch -M main
+git push -u origin main
+$ git checkout -b branch1
+
+1-----
+$ mkdir examenVidal
+$ cd examenVidal/ 
+$ mkdir prog si bbdd
