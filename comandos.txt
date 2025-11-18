@@ -1,11 +1,13 @@
 1-----
-$ mkdir examenVidal
-$ cd examenVidal/ 
-$ mkdir prog si bbdd
+mkdir examenVidal
+cd examenVidal/ 
+mkdir prog si bbdd
 
 2-----
-$ touch prog/index.php
+touch prog/index.php
 
 3-----
-$ cd si/
-$ cp ../prog/index.php ../bbdd/consultas.sql
+cd si/
+cp ../prog/index.php ../bbdd/consultas.sql
+
+4-----
